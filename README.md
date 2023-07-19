@@ -5,6 +5,11 @@
 
 **Installation is easy and fast just install the <a href="https://github.com/mishakorzik/Simple-process-explorer/raw/main/setup.exe">setup.exe</a> file and run.**
 
+## Source
+
+**You can also view the source code of <a href="https://raw.githubusercontent.com/mishakorzik/Simple-process-explorer/main/process-explorer.py">Task Manager</a>**
+
+
 **Repository Views** ![Views](https://profile-counter.glitch.me/simple-process-explorer/count.svg)
 
 ## Donate
