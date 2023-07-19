@@ -3,6 +3,6 @@
 
 ## Install 
 
-**Installation is easy and fast just install the <a href="https://github.com/mishakorzik/Simple-process-explorer/raw/main/setup.exe)https://github.com/mishakorzik/Simple-process-explorer/raw/main/setup.exe">setup.exe</a> file and run.**
+**Installation is easy and fast just install the <a href="https://github.com/mishakorzik/Simple-process-explorer/raw/main/setup.exe">setup.exe</a> file and run.**
 
 
