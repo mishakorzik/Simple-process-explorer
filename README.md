@@ -1,5 +1,5 @@
 ## Simple-process-explorer
-**А simple task manager that was created for windows to help stop viruses.**
+**А simple task manager and file manager that was created for windows to help stop viruses.**
 
 ## Install 
 
