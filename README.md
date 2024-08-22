@@ -3,13 +3,13 @@
 
 ## Install 
 
-**Installation is easy and fast just install the <a href="https://github.com/mishakorzik/Simple-process-explorer/raw/main/setup.exe">setup.exe</a> file and run.**
+**Installation is easy and fast just install the <a href="https://github.com/mishakorzik/Simple-process-explorer/raw/main/process-explorer.exe">process-explorer.exe</a> and <a href="https://github.com/mishakorzik/Simple-process-explorer/raw/main/file-manager.exe">file-manager.exe</a> file and run.**
 
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/Simple-process-explorer/main/photo.png"/>
 
 ## Source
 
-**You can also view the source code of <a href="https://raw.githubusercontent.com/mishakorzik/Simple-process-explorer/main/process-explorer.py">Task Manager</a>**
+**You can also view the source code of <a href="https://raw.githubusercontent.com/mishakorzik/Simple-process-explorer/main/process-explorer.py">Task Manager</a>** and **<a href="https://raw.githubusercontent.com/mishakorzik/Simple-process-explorer/main/file-manager.py">File Manager</a>**
 
 ## Repository 
 
